@@ -10,7 +10,7 @@ abstract class Animal {
 //Provide a implementation of abstract class
   class Dog extends Animal {
       public void makeSound() {
-          System.out.println("I can sound");
+          System.out.println("I can honk");
       }
   }
   class Main{
